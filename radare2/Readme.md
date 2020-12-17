@@ -26,4 +26,5 @@ RunTillBreakPoint - dcu 0xAddress
 StepOver          - S
 VisualMode - V
 Cycle Through VisualModes - p
+reload the program - ood
 ```
